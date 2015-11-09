@@ -17,7 +17,13 @@ class Card(models.Model):
     number = models.CharField(verbose_name="Number", max_length=16, null=False, blank=False)
     issue_date = models.DateTimeField(verbose_name="Issue Date", auto_now=False, null=False, blank=False)
     expire_date = models.DateTimeField(verbose_name="Expiry Date", auto_now=False, null=False, blank=False)
-    status = models.CharField(verbose_name="Status", max_length=3, null=False, blank=False, default="AC")
+    status = models.CharField(
+        verbose_name="Status", 
+        max_length=2, 
+        null=False, 
+        blank=False, 
+        default=STATUS_ACTIVE,
+        choices=STATUS_CHOICES)
 
 class Purchase(models.Model):
     id = models.AutoField(primary_key = True)
