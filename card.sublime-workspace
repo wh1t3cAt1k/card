@@ -1,0 +1,480 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"th",
+				"theta"
+			],
+			[
+				"the",
+				"thetaStar"
+			],
+			[
+				"predi",
+				"predictionVector"
+			],
+			[
+				"nega",
+				"negativeY"
+			],
+			[
+				"posi",
+				"positiveY"
+			],
+			[
+				"featu",
+				"featureIndex"
+			],
+			[
+				"fer",
+				"featureIndex"
+			],
+			[
+				"stroke",
+				"strokeStyle"
+			],
+			[
+				"strok",
+				"strokeStyle"
+			],
+			[
+				"shado",
+				"shadowOffsetX"
+			],
+			[
+				"line",
+				"lineWidth"
+			],
+			[
+				"drawsom",
+				"drawSomeCircles"
+			],
+			[
+				"snap",
+				"snapshot"
+			],
+			[
+				"anot",
+				"anotherGradient"
+			],
+			[
+				"ano",
+				"anotherGradient"
+			],
+			[
+				"gra",
+				"gradient"
+			],
+			[
+				"curr",
+				"currentX"
+			],
+			[
+				"fill",
+				"fillStyleTwo"
+			],
+			[
+				"fillStyle",
+				"fillStyleOne"
+			],
+			[
+				"fills",
+				"fillStyle"
+			],
+			[
+				"fil",
+				"fillStyleTwo"
+			],
+			[
+				"get",
+				"getContext"
+			],
+			[
+				"rec",
+				"rectsPerRow"
+			],
+			[
+				"rectsP",
+				"rectsPerColumn"
+			],
+			[
+				"squa",
+				"squaresPerColumn"
+			],
+			[
+				"be",
+				"beginPath"
+			],
+			[
+				"cur",
+				"currentY"
+			],
+			[
+				"base",
+				"baseY"
+			],
+			[
+				"create",
+				"createLinearGradient"
+			],
+			[
+				"C",
+				"CANVAS_HEIGHT"
+			],
+			[
+				"CANVA",
+				"CANVAS_WIDTH"
+			],
+			[
+				"dra",
+				"drawRoundedRectangle"
+			],
+			[
+				"drawro",
+				"drawRoundedRectangle"
+			],
+			[
+				"bas",
+				"baseX"
+			],
+			[
+				"bord",
+				"borderRadius"
+			],
+			[
+				"bor",
+				"borderRadius"
+			],
+			[
+				"video",
+				"video-container"
+			],
+			[
+				"getco",
+				"getConstraintsForWidth"
+			],
+			[
+				"clear",
+				"clearSnapshotsButton"
+			],
+			[
+				"snapsho",
+				"snapshotButton"
+			],
+			[
+				"sca",
+				"scaleFactor"
+			],
+			[
+				"vide",
+				"videoWidth"
+			],
+			[
+				"snaps",
+				"snapshotCanvas"
+			],
+			[
+				"set",
+				"setMessageOnStreamAvailability"
+			],
+			[
+				"mess",
+				"messageParagraph"
+			],
+			[
+				"stop",
+				"stopStream"
+			],
+			[
+				"CANVAS",
+				"CANVAS_WIDTH"
+			],
+			[
+				"curre",
+				"currentY"
+			],
+			[
+				"text",
+				"textHeight"
+			],
+			[
+				"ca",
+				"CANVAS_HEIGHT"
+			],
+			[
+				"te",
+				"textWidth"
+			],
+			[
+				"canvas",
+				"CANVAS_WIDTH"
+			],
+			[
+				"font",
+				"fontHeight"
+			],
+			[
+				"draw",
+				"drawScaledAndRotatedRectangles"
+			],
+			[
+				"canva",
+				"CANVAS_HEIGHT"
+			],
+			[
+				"main",
+				"mainElement"
+			],
+			[
+				"cons",
+				"constraints"
+			],
+			[
+				"high",
+				"highResolutionButton"
+			],
+			[
+				"midres",
+				"midResolutionConstraints"
+			],
+			[
+				"low",
+				"lowResolutionConstraints"
+			],
+			[
+				"res",
+				"resolutionSpan"
+			],
+			[
+				"erro",
+				"errorCallback"
+			],
+			[
+				"su",
+				"successCallback"
+			],
+			[
+				"name",
+				"nameArray"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/pkabir/Desktop/Data/stud/_coursera/2015.11 - Machine Learning/machine-learning-ex2/ex2/plotData.m",
+		"/Users/pkabir/Desktop/Data/stud/_coursera/2015.11 - Machine Learning/machine-learning-ex2/ex2/plotDecisionBoundary.m",
+		"/Users/pkabir/Desktop/Data/stud/_coursera/2015.11 - Machine Learning/machine-learning-ex2/ex2/sigmoid.m",
+		"/Users/pkabir/Desktop/Data/stud/_coursera/2015.11 - Machine Learning/machine-learning-ex2/ex2/predict.m",
+		"/Users/pkabir/Desktop/Data/stud/_coursera/2015.11 - Machine Learning/machine-learning-ex2/ex2/costFunction.m",
+		"/Users/pkabir/Desktop/Data/stud/_coursera/2015.11 - Machine Learning/machine-learning-ex2/ex2/costFunctionReg.m",
+		"/Users/pkabir/Desktop/Data/stud/_coursera/2015.11 - Machine Learning/machine-learning-ex2/ex2/predictedProbability.m",
+		"/Users/pkabir/Desktop/Data/stud/_coursera/2015.11 - Machine Learning/machine-learning-ex1/ex1/plotData.m",
+		"/Users/pkabir/Desktop/Data/stud/_coursera/2015.11 - Machine Learning/machine-learning-ex1/ex1/warmUpExercise.m",
+		"/Users/pkabir/Desktop/Data/stud/_coursera/2015.11 - Machine Learning/machine-learning-ex1/ex1/ex1.m",
+		"/Users/pkabir/Desktop/Data/stud/_coursera/2015.11 - Machine Learning/machine-learning-ex1/ex1/featureNormalize.m",
+		"/Users/pkabir/Desktop/Data/stud/_coursera/2015.11 - Machine Learning/machine-learning-ex1/ex1/computeCost.m",
+		"/Users/pkabir/Desktop/Data/stud/_coursera/2015.11 - Machine Learning/machine-learning-ex1/ex1/computeCostMulti.m",
+		"/Users/pkabir/Desktop/Data/stud/_coursera/2015.11 - Machine Learning/machine-learning-ex1/ex1/gradientDescent.m",
+		"/Users/pkabir/Desktop/Data/stud/_coursera/2015.11 - Machine Learning/machine-learning-ex1/ex1/gradientDescentMulti.m",
+		"/Users/pkabir/Desktop/Data/stud/_coursera/2015.11 - Machine Learning/machine-learning-ex1/ex1/normalEqn.m",
+		"/Users/pkabir/Desktop/Data/stud/_coursera/2015.11 - Machine Learning/machine-learning-ex1/ex1/ex1_multi.m",
+		"/Users/pkabir/Library/Application Support/Sublime Text 2/Packages/User/Objective-C.sublime-settings",
+		"/Users/pkabir/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/pkabir/Downloads/testTask.html",
+		"/Users/pkabir/Desktop/Data/stud/interesting/python/koans/python3/koans/about_strings.py",
+		"/Users/pkabir/Desktop/Data/purrsonal/site/standalone/html5video/videocapture.html",
+		"/Users/pkabir/Desktop/Data/purrsonal/site/standalone/html5video/customplayer.html",
+		"/Users/pkabir/Desktop/tryDjango/src/contact/views.py",
+		"/Users/pkabir/Desktop/tryDjango/src/profiles/views.py",
+		"/Users/pkabir/Desktop/tryDjango/src/paveltags/templatetags/__init__.py",
+		"/Users/pkabir/Desktop/tryDjango/src/tryDjango/__init__.py",
+		"/Users/pkabir/Desktop/tryDjango/src/profiles/models.py",
+		"/Users/pkabir/Desktop/tryDjango/src/profiles/admin.py",
+		"/Users/pkabir/Desktop/tryDjango/static/templates/about.html",
+		"/Users/pkabir/Desktop/tryDjango/static/static/css/main.css",
+		"/Users/pkabir/Desktop/tryDjango/static/templates/base.html",
+		"/Users/pkabir/Desktop/tryDjango/static/templates/home.html",
+		"/Users/pkabir/Desktop/tryDjango/static/templates/navbar.html",
+		"/Users/pkabir/Desktop/tryDjango/src/tryDjango/urls.py",
+		"/Users/pkabir/Desktop/tryDjango/src/tryDjango/settings.py",
+		"/Users/pkabir/Documents/octaveNew.dat",
+		"/Users/pkabir/Desktop/Data/purrsonal/Сочинительство/Стихи/2010.08.15 Под мостом.txt",
+		"/Users/pkabir/Downloads/Stair Maker.rb",
+		"/Users/pkabir/Desktop/Data/purrsonal/Сочинительство/Стихи/2010.07.30 Праздник жизни.txt",
+		"/Users/pkabir/Desktop/Data/purrsonal/Сочинительство/Стихи/2008.11.14 -.txt",
+		"/Users/pkabir/Desktop/Data/purrsonal/Сочинительство/Стихи/2010.08.14 Гимн Пашляндии.txt",
+		"/Users/pkabir/Desktop/Data/purrsonal/Сочинительство/Стихи/2010.08.06 Письма.txt",
+		"/Users/pkabir/Desktop/Data/purrsonal/Сочинительство/Стихи/2010.03.14 Я вас бомбил.txt",
+		"/Users/pkabir/Desktop/Data/purrsonal/Сочинительство/Стихи/2007.03.18 Я одинок, и что с того....txt",
+		"/Users/pkabir/Desktop/Data/purrsonal/Сочинительство/Стихи/2008.09.23 Два зверика в темных пальто.txt",
+		"/Users/pkabir/Desktop/script/index.html",
+		"/Users/pkabir/Dropbox/Текущие проекты/рисунок.svg",
+		"/Users/pkabir/Downloads/emerald_mrr35_857.bib",
+		"/Users/pkabir/Downloads/10.1002%2F0470013192.bsa501.bib",
+		"/private/var/folders/1p/tvvhbzn15m535n85gl_91tcw0000gn/T/fz3temp-1/functions.js",
+		"/private/var/folders/1p/tvvhbzn15m535n85gl_91tcw0000gn/T/fz3temp-1/jquery.nivo.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"stop",
+			"drawCheckeredRussianFlag",
+			"CANVAS_HEIGHT",
+			"CANVAS_WIDTH",
+			"context.canvas",
+			"midResolutionConstraints",
+			"lowResolutionConstraints",
+			"^$",
+			"^м.*а$",
+			"^.*?([0-9]+)(,|\\.)?([0-9]+)?\\s?р.*$",
+			"^.*?([0-9]+),?\\.?([0-9]+)?\\s?р.*$",
+			"^.*?([0-9]+),?\\.?([0-9]+)\\s?р.*$",
+			"^.*?([0-9]+)(,|.)?([0-9]+)\\s?г.*$",
+			"^.*([0-9]+,[0-9]+)\\s?г.*$",
+			"^.*([0-9]+)(,|.)?([0-9]+)\\s?г.*$",
+			"^.*([0-9]+,[0-9]+)\\s?г.*$",
+			"^.*([0-9]+,[0-9]+\\s?)г.*$",
+			"^.*([0-9]+,[0-9]+\\s?г).*$",
+			"[0-9]+,[0-9]+",
+			"[0-9]+\\,[0-9]+",
+			"\\t\\t\\t\\t(.*)$",
+			"^(.*)$",
+			"effect"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"drawSomeCheckers",
+			"context.canvas.height",
+			"context.canvas.width",
+			"MID_RESOLUTION_CONSTRAINTS",
+			"LOW_RESOLUTION_CONSTRAINTS",
+			"мяученька",
+			"$1$2$3",
+			"$1,$3",
+			"$1,2$",
+			"$1,$3",
+			"$1",
+			"$1,$3",
+			"$1",
+			"\"$1\"",
+			"\"$1\",",
+			"<tr><td>$1</td></tr>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true
+}
